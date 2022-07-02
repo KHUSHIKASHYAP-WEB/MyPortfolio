@@ -1,7 +1,15 @@
 * {
   box-sizing: border-box;
 }
-body {
+gitremote add origin https://github.com/KHUSHIKASHYAP-WEB/MyPortfolio.git
+git init
+
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://aakashdevloper:personalaacesstoken@github.com/Aakashdeveloper/aakashprofile.git
+git push -u origin main
+
+  git push -u origin main body {
   color: white;
   background-image: linear-gradient(black, #1a1110, grey);
   margin: 10px;
